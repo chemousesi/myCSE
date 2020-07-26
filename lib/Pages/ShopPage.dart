@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttertest/Item.dart';
+import 'package:fluttertest/model/Item.dart';
 
 class ShopPage extends StatefulWidget {
   @override

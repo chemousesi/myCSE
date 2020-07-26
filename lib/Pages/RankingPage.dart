@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../Member.dart';
+import '../model/Member.dart';
 
 class RankingPage extends StatefulWidget {
   @override
